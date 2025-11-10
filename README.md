@@ -11,4 +11,4 @@ Exercícios de C e C++
 /><br /><br />
 
 ### Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramuzjr&show_icons=true&theme=dracula&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramuzjr&show_icons=true&theme=dark&include_all_commits=true)
